@@ -1,0 +1,59 @@
+
+Task 2
+
+Do share your thoughts on the following
+
+Q1.Why do you like to join as a Software developer?
+
+ans= I am excited to join as a software developer because I have always been passionate about solving problems and creating 
+high-quality products. My education and experience have prepared me well for this role, and I am eager to apply my skills to 
+real-world projects.
+
+
+Q2. List top 3 softwares / tools that inspire you. Why do these tools inspire you?
+
+ans= 1. Github:- I am inspired by GitHub because it democratized the process of software development. I like its social features, such
+as issue tracking, pull requests, and code reviews.
+
+2. VScode:- This is the most favorite editor. I love to write the code here. This editor provide me to write the code in any language 
+and in same editor i can use the git for my code to be safe and deploy.
+
+3. Netbeam:- This tool/editor has very good UI. In this editor i write the java project. I love its functionality and provide variety
+for developer to developed the clean code.
+
+
+Q3. List top 3 organisations you like to join in your career & why you like these organisations.
+
+ans== 1. Google:- Google is known for its innovative and dynamic work environment. I appreciate the company's commitment to pushing the
+boundaries of technology and its emphasis on creativity.
+
+2. Microsoft:- Microsoft's strong focus on empowering individuals and organizations through technology resonates with me. I admire the company's
+dedication to creating products that have a real impact on people's lives.
+
+3. Amazon:- Amazon is a leader in e-commerce, cloud computing, and various technological innovations. I am drawn to the scale and complexity of Amazon's 
+projects, and the company's customer-centric approach is something I find inspiring.
+
+
+
+Q4. How you position yourself in this industry after 2 years.
+
+ans==  I plan to continually upskill, and take on leadership responsibilities to further advance my career".
+
+
+
+Q5. List 3 projects / products you have built or have planned to build in the upcoming year, also explain your role in the same.
+
+ans== 1. IMDB Rating for Movie Project:- I have build this project in python. I have completed this project by myself for the learning purpose
+
+2. AI-Powered Customer Support Chatbot:- I am planning to build AI- powered customer support chatbot. I am gonna build this project after getting
+lots of research and after getting good skillset. Like what skills has required for to build the AI based chatbot. I will plan and i will do.
+
+3. Cybersecurity Risk Assessment Tool:- I am currently planning a cybersecurity project to create a comprehensive risk assessment tool. Actually
+i got the idea from one of Youtuber which i have seen videos from utube. 
+
+
+
+
+
+
+
